@@ -2,11 +2,11 @@
 
 Kód se objeví obvykle další den po hodině.
 
-- Lekce 1:
+- Lekce 1: Proměnné a datové typy
 	- [Hello World!, proměnné, datové typy](lekce01/hello-world)
 	- [Cvičení](lekce01/invoice/)
+- [Lekce 2: Computers &mdash; třídy, objekty, metody, konstruktory](lekce02/computers/)
 <!--
-- [Lekce 2: Pokračování Invoice](lekce02_invoice-pokracovani/)
 - [Lekce 3](lekce03/)
 	- [DÚ: lekce 3](du-lekce-03-main/)
 - [Lekce 5: Výjimky, čtení ze souboru](lekce05/)
